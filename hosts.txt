@@ -1,15 +1,1 @@
 8.215.107.11    a29.phobos.apple.com
-122.228.85.232   a29.phobos.apple.com
-122.228.85.43    a29.phobos.apple.com
-58.216.31.231    a29.phobos.apple.com
-122.228.85.196   a29.phobos.apple.com
-115.231.174.46   a30.phobos.apple.com
-180.97.178.212   a30.phobos.apple.com
-58.221.78.109    a30.phobos.apple.com
-115.231.171.46   a30.phobos.apple.com
-115.231.134.63   a30.phobos.apple.com
-115.231.174.46   a31.phobos.apple.com
-180.97.178.212   a31.phobos.apple.com
-58.221.78.109    a31.phobos.apple.com
-115.231.171.46   a31.phobos.apple.com
-115.231.134.63   a31.phobos.apple.com
